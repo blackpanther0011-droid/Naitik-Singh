@@ -1,0 +1,6 @@
+{
+  "name": "Morning Gram",
+  "description": "Sovereign ad-free social sanctuary for global youth and creators. Features end-to-end encrypted peer chats, digital contract sign-offs, and generative Gemini visual filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

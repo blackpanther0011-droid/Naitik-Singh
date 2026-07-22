@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Bold white camera contour (outer body rounded rectangle) -->
+    <path
+        android:pathData="M38,34 C33,34 29,38 29,43 L29,65 C29,70 33,74 38,74 L70,74 C75,74 79,70 79,65 L79,43 C79,38 75,34 70,34 Z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="#00000000" />
+
+    <!-- Bold lens outline (center circle) -->
+    <path
+        android:pathData="M54,54m-11,0a11,11 0 1,1 22,0a11,11 0 1,1 -22,0"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="#00000000" />
+
+    <!-- Pure white play icon representing "Reels" video player inside the lens center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,48.5 L60,54 L51,59.5 Z" />
+
+    <!-- Camera flash indicator dot on top right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,41m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0" />
+</vector>
